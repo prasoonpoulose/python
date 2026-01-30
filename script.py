@@ -1,3 +1,5 @@
+import os
 print ("Hello world")
-#def my_function():
+print(os.getenv("HOSTNAME"))
+
     
